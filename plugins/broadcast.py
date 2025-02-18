@@ -1,6 +1,6 @@
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit @Deep_Dey
+# Subscribe YouTube Channel For Amazing Bot @Oficialtarzanthegamer
+# Ask Doubt on telegram @bollywoodhouse018
 
 import logging 
 import datetime, time, asyncio
